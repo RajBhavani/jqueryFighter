@@ -26,24 +26,24 @@ body {
 } 
 
 .ryu-ready {
-  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/master/ryu-ready-position.gif');
+  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/gh-pages/ryu-ready-position.gif');
 }
 
 .ryu-still {
-  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/master/ryu-standing-still.png');
+  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/gh-pages/ryu-standing-still.png');
 }
 
 .ryu-throwing {
-  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/master/ryu-throwing-hadouken.png');
+  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/gh-pages/ryu-throwing-hadouken.png');
 }
 .ryu-cool {
-	background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/master/ryu-cool.gif')
+	background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/gh-pages/master/ryu-cool.gif')
 }
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing {
   background-repeat: no-repeat;
 }
 .hadouken {
-  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/master/hadouken.gif');
+  background-image: url('https://github.com/RajBhavani/jqueryFighter/blob/gh-pages/master/hadouken.gif');
   width: 156px; 
   height: 90px;
   display: none;
